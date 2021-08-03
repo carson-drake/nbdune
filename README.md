@@ -1,11 +1,6 @@
 # NBDune
-> Summary description here.
+> This is a sandbox repo to practice working with NBDev Projects. 
 
-
-```
-%load_ext autoreload
-%autoreload 2
-```
 
 This file will become your README and also the index of your documentation.
 
@@ -17,6 +12,13 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```
+```python
 1+1
 ```
+
+
+
+
+    2
+
+
