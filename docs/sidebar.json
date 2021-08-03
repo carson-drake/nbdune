@@ -2,6 +2,7 @@
   "nbdune": {
     "Overview": "/",
     "NBDune": "core.html",
-    "Example `.ipynb`": "example.html"
+    "Example `.ipynb`": "example.html",
+    "Sample Notebook": "sample.html"
   }
 }
