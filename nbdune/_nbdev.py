@@ -6,7 +6,7 @@ index = {"Card": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://cdrake.github.io/nbdune/"
+doc_url = "https://cdrake.github.io/nbdune"
 
 git_url = "https://github.com/cdrake/nbdune/tree/master/"
 
