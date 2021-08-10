@@ -16,7 +16,7 @@ entries:
       title: Example `.ipynb`
       url: example.html
     - output: web,pdf
-      title: Sample Notebook
+      title: Sample
       url: sample.html
     output: web
     title: nbdune
